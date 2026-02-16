@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import CallbackContext
 from bot.config.constants import example_text
 from bot.utils.product_parser import utils
-from bot.services.product_service import ProductService
+from bot.services.product_service import product_service
 
 
 class AdminHandler:
@@ -28,7 +28,7 @@ class AdminHandler:
         
         data["photo"] = update.message.photo[-1].file_id
 
-        ProductService.create_product(data)
+        product_service.create_product(data)
 
         update.message.reply_text("✅ Mahsulot saqlandi.")
 

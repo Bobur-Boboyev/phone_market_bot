@@ -1,3 +1,12 @@
 [
-    
+    {
+        "name": "iPhone 15 Pro",
+        "price": 1500,
+        "description": "Yangi, zapas yo\u2018q",
+        "brand": "Apple",
+        "memory": "256GB",
+        "color": "Black",
+        "discount": 10,
+        "photo": "AgACAgIAAxkBAAO6aZNK2t-W2NzhtLcDqvTX7PdYpIgAAokZaxs0uplIQt7SOwTMFzYBAAMCAANtAAM6BA"
+    }
 ]

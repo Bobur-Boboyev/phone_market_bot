@@ -8,3 +8,5 @@ class ProductService:
 
     def create_product(self, data: dict):
         return self.product.save_product(data)
+
+product_service = ProductService()

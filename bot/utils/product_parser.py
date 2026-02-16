@@ -33,4 +33,4 @@ class Utils:
 
         return True, None
 
-utils = Utils
+utils = Utils()

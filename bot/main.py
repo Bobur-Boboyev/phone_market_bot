@@ -18,7 +18,7 @@ def main() -> None:
         CommandHandler('start', command_handler.start_command)
     )
     dispatcher.add_handler(
-        CommandHandler('add_product', callback=admin_handler.add_product_command, filters=Filters.command)
+        CommandHandler('add_product', callback=admin_handler.add_product_command)
     )
     dispatcher.add_handler(
         MessageHandler(filters=Filters.photo, callback=admin_handler.handle_product_message)

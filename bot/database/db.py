@@ -2,7 +2,7 @@ import uuid
 import json
 
 class Product:
-    JSON_FILE = "products.json"
+    JSON_FILE = "bot/database/products.json"
 
     def save_product(self, product_data: dict) -> None:
         with open(self.JSON_FILE) as f:
