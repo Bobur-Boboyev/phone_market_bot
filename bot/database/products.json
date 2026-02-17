@@ -7,6 +7,62 @@
         "memory": "256GB",
         "color": "Black",
         "discount": 10,
-        "photo": "AgACAgIAAxkBAAO6aZNK2t-W2NzhtLcDqvTX7PdYpIgAAokZaxs0uplIQt7SOwTMFzYBAAMCAANtAAM6BA"
+        "photo": "AgACAgIAAxkBAAO6aZNK2t-W2NzhtLcDqvTX7PdYpIgAAokZaxs0uplIQt7SOwTMFzYBAAMCAANtAAM6BA",
+        "id": 1
+    },
+    {
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": 1400,
+        "description": "Yangi, global versiya, kafolat bor",
+        "brand": "Samsung",
+        "memory": "512GB",
+        "color": "Titanium Gray",
+        "discount": 5,
+        "photo": "AgACAgIAAxkBAAIBEGmUKhAmB-49afmhuxaR3zJ4_GKEAAKBE2sb7cWoSN-zQ6LCQkemAQADAgADbQADOgQ",
+        "id": 2
+    },
+    {
+        "name": "Xiaomi 14 Pro",
+        "price": 900,
+        "description": "Yangi, zavod plombasi ochilmagan",
+        "brand": "Xiaomi",
+        "memory": "256GB",
+        "color": "White",
+        "discount": 8,
+        "photo": "AgACAgIAAxkBAAIBImmULByR_iJqNAbP0Q11I9I-qZ5RAAKSE2sb7cWoSNT12tNOJHedAQADAgADbQADOgQ",
+        "id": 3
+    },
+    {
+        "name": "Google Pixel 8 Pro",
+        "price": 1100,
+        "description": "Yangi, AQSh versiyasi, original",
+        "brand": "Google",
+        "memory": "128GB",
+        "color": "Blue",
+        "discount": 7,
+        "photo": "AgACAgIAAxkBAAIBJGmULEmo9vrvX0IAAWL4kOU3jb6GpwACmhNrG-3FqEi4Ns9_YAkEhAEAAwIAA20AAzoE",
+        "id": 4
+    },
+    {
+        "name": "OnePlus 12",
+        "price": 850,
+        "description": "Yangi, tezkor zaryadlash, global",
+        "brand": "OnePlus",
+        "memory": "256GB",
+        "color": "Green",
+        "discount": 6,
+        "photo": "AgACAgIAAxkBAAIBJmmULIDwTVyHu_lPHIYimhEYkc6IAAKcE2sb7cWoSOM5QBxlwUUwAQADAgADbQADOgQ",
+        "id": 5
+    },
+    {
+        "name": "iPhone 14 Pro Max",
+        "price": 1300,
+        "description": "Yangi, Face ID, original",
+        "brand": "Apple",
+        "memory": "256GB",
+        "color": "Deep Purple",
+        "discount": 12,
+        "photo": "AgACAgIAAxkBAAIBKGmULK19k8LqBVTBXHz56fClnnzyAAKeE2sb7cWoSCBRGGwfL9xNAQADAgADbQADOgQ",
+        "id": 6
     }
 ]

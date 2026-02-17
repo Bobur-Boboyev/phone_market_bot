@@ -30,5 +30,15 @@ color: Black
 discount: 10
 </code>
 
-<i>name, price va description majburiy.</i>
+<i>name, price va description majburiy
+(bir xil tartibda yozilishi shart!).</i>
+"""
+smartphone_message = """
+📱 {name}
+💰 Narxi: ${price}
+📝 Tavsifi: {description}
+🏷️ Brand: {brand}
+💾 Memory: {memory}
+🎨 Rang: {color}
+🔥 Chegirma: {discount}%
 """
