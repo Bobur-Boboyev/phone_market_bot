@@ -1,3 +1,16 @@
+class AddProductStates:
+    SET_NAME = 0
+    SET_PRICE = 1
+    SET_PHOTO = 2
+    SET_DESCRIPTION = 3
+    SET_BRAND = 4
+    SET_MEMORY = 5
+    SET_COLOR = 6
+    SET_DISCOUNT = 7
+    SET_PHOTO = 8
+    CONFIRM = 9
+
+
 start_msg = """
 <b>📱 Phone Market Bot'ga xush kelibsiz!</b>
 
@@ -15,24 +28,6 @@ Siz bu yerda eng so‘nggi smartfonlar, aksessuarlar va maxsus chegirmalarni top
 📞 <b>Bog‘lanish</b> – Operator bilan aloqa  
 """
 
-example_text = """
-📦 <b>Mahsulot qo‘shish formati:</b>
-
-Mahsulot rasmini yuboring va caption ichida quyidagicha yozing:
-
-<code>
-name: iPhone 15 Pro
-price: 1500
-description: Yangi, zapas yo‘q
-brand: Apple
-memory: 256GB
-color: Black
-discount: 10
-</code>
-
-<i>name, price va description majburiy
-(bir xil tartibda yozilishi shart!).</i>
-"""
 smartphone_message = """
 📱 {name}
 💰 Narxi: ${price}

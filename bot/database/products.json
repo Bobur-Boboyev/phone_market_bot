@@ -64,5 +64,104 @@
         "discount": 12,
         "photo": "AgACAgIAAxkBAAIBKGmULK19k8LqBVTBXHz56fClnnzyAAKeE2sb7cWoSCBRGGwfL9xNAQADAgADbQADOgQ",
         "id": 6
+    },
+    {
+        "name": "iPhone 15 Pro",
+        "price": 1500,
+        "description": "Yangi, zapas yo\u2018q",
+        "brand": "Apple",
+        "memory": "256GB",
+        "color": "Black",
+        "discount": 10,
+        "photo": "AgACAgIAAxkBAAIBmmmUZnbi6B1c_Xqlx9Gn1n72ETb3AAK9FWsb7cWoSHF728WCzqvgAQADAgADbQADOgQ",
+        "id": 7
+    },
+    {
+        "name": "Galaxy S23 Ultra",
+        "price": 1400,
+        "description": "Yangi, original qadoq",
+        "brand": "Samsung",
+        "memory": "512GB",
+        "color": "Phantom Black",
+        "discount": 15,
+        "photo": "AgACAgIAAxkBAAIBnGmUZqIaFew7J9y0nyLvGQ4VVkfiAALAFWsb7cWoSE66jYSP5K8mAQADAgADbQADOgQ",
+        "id": 8
+    },
+    {
+        "name": "iPhone 14",
+        "price": 1000,
+        "description": "Yangi, stock mavjud",
+        "brand": "Apple",
+        "memory": "128GB",
+        "color": "White",
+        "discount": 0,
+        "photo": "AgACAgIAAxkBAAIBnmmUZsQyjFYFoZsrCBmnjS0PJxRnAALDFWsb7cWoSNZwySS4nrKDAQADAgADbQADOgQ",
+        "id": 9
+    },
+    {
+        "name": "iphone 11 pro max",
+        "price": 300,
+        "description": "xolati ideal",
+        "brand": "apple",
+        "memory": "64GB",
+        "color": "gold",
+        "discount": 0,
+        "photo": "AgACAgIAAxkBAAICnmmV8dKfK1aDBw5jdM13yKlzVvw7AAJtGWsbpzywSDVwkbgoXdPBAQADAgADbQADOgQ",
+        "id": 10
+    },
+    {
+        "name": "Infinix hot 30 play",
+        "price": 120,
+        "description": "Qotmaydi, xolati yaxshi",
+        "brand": "Infinix",
+        "memory": "64GB",
+        "color": "White",
+        "discount": 12,
+        "photo": "AgACAgIAAxkBAAIDDWmV9Ml5ilyd3enXP398B-5rku17AAKsGWsbpzywSHRT1V4_3hC7AQADAgADbQADOgQ",
+        "id": 11
+    },
+    {
+        "name": "Odam",
+        "price": 120000000,
+        "description": "Qora mehnatchi",
+        "brand": "Bobur",
+        "memory": "64GB",
+        "color": "Qora",
+        "discount": 2,
+        "photo": "AgACAgIAAxkBAAIC-2mV9H7ldpnOlnEH_pHL2-QPtCx9AAJCGWsbVr-xSOC_t3fmKItyAQADAgADeQADOgQ",
+        "id": 12
+    },
+    {
+        "name": "Nigger pro",
+        "price": 12000000,
+        "description": "Tinmasdan ishlaydi, nma desez hammasini qiladi",
+        "brand": "Afrikalik n@ger",
+        "memory": "512GB",
+        "color": "Black",
+        "discount": 99,
+        "photo": "AgACAgIAAxkBAAIDMWmV9il6wQbeRrshPwABhktavzF0yAACtBlrG6c8sEjLeUCu4NYBBwEAAwIAA3kAAzoE",
+        "id": 13
+    },
+    {
+        "name": "Odam",
+        "price": 1246000,
+        "description": "79 ta qiz bilan gaplashgan qoravoy",
+        "brand": "Josef",
+        "memory": "64GB",
+        "color": "Qora",
+        "discount": 1,
+        "photo": "AgACAgIAAxkBAAIDhmmV-SMDucCt9I5vmH_GaLuemB86AAJzGWsbVr-xSBMI6ihcmaYmAQADAgADeQADOgQ",
+        "id": 14
+    },
+    {
+        "name": "Nigger pro max",
+        "price": 9999999999,
+        "description": "Eng zur versiya, qushimcha xusisiyatlari ham bor\ud83d\ude08",
+        "brand": "Afrikalik n@ger new edition",
+        "memory": "256GB",
+        "color": "Black",
+        "discount": 99,
+        "photo": "AgACAgIAAxkBAAIDnWmV-soTa2VWYI_AFz53btjYAdzzAAL5GWsbpzywSGn6ij1-l5JQAQADAgADeQADOgQ",
+        "id": 15
     }
 ]
